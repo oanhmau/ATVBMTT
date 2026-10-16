@@ -1,0 +1,6 @@
+{
+  "name": "HomeCam Shield",
+  "description": "Hệ thống bảo vệ hình ảnh camera IoT trong nhà với mã hóa AES, Zero Trust, phân quyền IAM và Blockchain Mini chống sửa nhật ký truy cập.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
